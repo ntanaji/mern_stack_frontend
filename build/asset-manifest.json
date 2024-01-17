@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.da4b72e0.css",
-    "main.js": "/react-gh-pages/static/js/main.0f753c34.js",
-    "static/js/787.d488d35d.chunk.js": "/react-gh-pages/static/js/787.d488d35d.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.da4b72e0.css.map": "/react-gh-pages/static/css/main.da4b72e0.css.map",
-    "main.0f753c34.js.map": "/react-gh-pages/static/js/main.0f753c34.js.map",
-    "787.d488d35d.chunk.js.map": "/react-gh-pages/static/js/787.d488d35d.chunk.js.map"
+    "main.css": "/mern_app_frontend/static/css/main.da4b72e0.css",
+    "main.js": "/mern_app_frontend/static/js/main.e7028203.js",
+    "static/js/787.d488d35d.chunk.js": "/mern_app_frontend/static/js/787.d488d35d.chunk.js",
+    "index.html": "/mern_app_frontend/index.html",
+    "main.da4b72e0.css.map": "/mern_app_frontend/static/css/main.da4b72e0.css.map",
+    "main.e7028203.js.map": "/mern_app_frontend/static/js/main.e7028203.js.map",
+    "787.d488d35d.chunk.js.map": "/mern_app_frontend/static/js/787.d488d35d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da4b72e0.css",
-    "static/js/main.0f753c34.js"
+    "static/js/main.e7028203.js"
   ]
 }
