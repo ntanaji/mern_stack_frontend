@@ -1,7 +1,7 @@
 {
   "name": "react-mern-stack-crud",
   "version": "0.1.0",
-  "homepage": "https://ntanaji.github.io/react-gh-pages",
+  "homepage": "https://ntanaji.github.io/mern_app_frontend",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
