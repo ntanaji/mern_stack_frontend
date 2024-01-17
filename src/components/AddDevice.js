@@ -5,7 +5,7 @@ import axios from "axios";
 
 function AddDevice() {
 
-    const url = 'http://localhost:4000/devices/add-device';
+    const url = 'https://adorable-frog-jumpsuit.cyclic.app/devices/add-device';
 
     const [userForm, setUserForm] = useState({
         deviceName: "",

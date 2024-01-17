@@ -4,7 +4,7 @@ import axios from "axios";
 
 function DeviceList() {
 
-    const url = 'http://localhost:4000/devices/';
+    const url = 'https://adorable-frog-jumpsuit.cyclic.app/devices/';
 
     const [deviceForm, setDeviceForm] = useState([]);
 
