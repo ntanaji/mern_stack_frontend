@@ -4,7 +4,7 @@ import axios from "axios";
 
 function DeviceList() {
 
-    const url = 'https://adorable-frog-jumpsuit.cyclic.app/devices/';
+    const url = 'https://mern-app-k6b4.onrender.com/devices/';
 
     const [deviceForm, setDeviceForm] = useState([]);
 

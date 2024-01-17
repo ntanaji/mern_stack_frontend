@@ -4,7 +4,7 @@ import axios from "axios";
 
 function AddDevice() {
 
-    const url = 'https://adorable-frog-jumpsuit.cyclic.app/devices/add-device';
+    const url = 'https://mern-app-k6b4.onrender.com/devices/add-device';
 
     const [userForm, setUserForm] = useState({
         deviceName: "",
